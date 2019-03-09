@@ -2,9 +2,6 @@
   <img src="http://media.mlgeditz.nl/MVS/mvs.png" />
 </p>
 
-
-
-[![Build Status](https://api.travis-ci.org/MLGEditz/MVS.svg?branch=master)](https://api.travis-ci.org/MLGEditz/MVS) 
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.0.0&x2=0)](https://github.com/MLGEditz/MVS)
 
 ## Multipe version support
