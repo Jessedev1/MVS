@@ -24,13 +24,13 @@ When you select this by typing `8`. A server with latest version you launched wi
 
 ## License
 MVS is under the `Apache License 2.0` Also MVS has some other terms you need to agree with:
-``
+```
 
 1. You do not have the permission to edit the MVS.bat file.
 2. Claiming MVS is made by you is not allowed. The only one who's working on MVS is MLGEditz.
 3. Every download needs to go using the official [Downloadpage](https://download.mlgeditz.nl).
 
-``
+```
 You agree with this terms automatically when installing MVS.
 
 
