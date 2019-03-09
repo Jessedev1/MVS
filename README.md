@@ -31,7 +31,7 @@ MVS is under the `Apache License 2.0` Also MVS has some other terms you need to 
 
 1. You do not have the permission to edit the MVS.bat file.
 2. Claiming MVS is made by you is not allowed. The only one who's working on MVS is MLGEditz.
-3. Every download needs to go using the official [Downloadpage](https://download.mlgeditz.nl).
+3. Every download needs to go using the official Downloadpage: https://download.mlgeditz.nl
 
 ```
 You agree with this terms automatically when installing MVS.
