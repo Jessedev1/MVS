@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://media.mlgeditz.nl/MSV/mvs.png" />
+  <img src="http://media.mlgeditz.nl/MVS/mvs.png" />
 </p>
 
 
